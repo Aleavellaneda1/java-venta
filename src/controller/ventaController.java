@@ -12,7 +12,7 @@ package controller;
 public class ventaController {
     
     
-    for(LineaDeVenta ldv : LineasDeVentas)
+   
     
     
 }
